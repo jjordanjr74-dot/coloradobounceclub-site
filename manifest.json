@@ -1,0 +1,17 @@
+{
+  "name": "Colorado Bounce Club",
+  "short_name": "CO Bounce Club",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Bounce house and water slide rentals in Pueblo and Colorado Springs.",
+  "icons": [
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

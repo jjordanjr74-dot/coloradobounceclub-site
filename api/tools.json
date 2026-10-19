@@ -1,0 +1,243 @@
+{
+  "schema_version": "webmcp-1.0",
+  "site": "https://www.coloradobounceclub.com",
+  "partner_directory": "https://whereeatin.com",
+  "name": "Colorado Bounce Club",
+  "bilingual_languages": [
+    "en",
+    "es"
+  ],
+  "contact_phone": "719-299-0772",
+  "contact_email": "coloradobounceclub@gmail.com",
+  "veteran_owned": true,
+  "delivery_zones": [
+    {
+      "zone": "Pueblo",
+      "fee_usd": 0
+    },
+    {
+      "zone": "Up to 50 miles",
+      "fee_usd": 50
+    },
+    {
+      "zone": "51-75 miles",
+      "fee_usd": 75
+    },
+    {
+      "zone": "76-100 miles",
+      "fee_usd": 100
+    }
+  ],
+  "whereeatin_combos": [
+    {
+      "id": "feed_and_bounce_family",
+      "name_en": "Feed and Bounce Party Combo",
+      "name_es": "Combo Fiesta: Lonchera + Brincolin",
+      "benefit_en": "$25 OFF any 8-hr inflatable when paired with a Where We Eatin' food truck booking.",
+      "benefit_es": "$25 de descuento en cualquier inflable de 8 hrs al reservar una lonchera en Where We Eatin'."
+    },
+    {
+      "id": "vendor_rally_partner",
+      "name_en": "Food Truck Vendor Partner",
+      "name_es": "Alianza para Food Trucks",
+      "benefit_en": "Listed food trucks get 20% OFF weekday and event inflatables plus a $20 referral credit per booked party.",
+      "benefit_es": "Las loncheras registradas obtienen 20% de descuento entre semana y $20 de crédito por fiesta referida."
+    }
+  ],
+  "units": [
+    {
+      "id": "dog",
+      "name_en": "Dog Puppy Bounce House",
+      "name_es": "Brincolín Perrito",
+      "price_usd": 150,
+      "hours": 8
+    },
+    {
+      "id": "castle",
+      "name_en": "Royal Castle Bounce House",
+      "name_es": "Castillo Real Inflable",
+      "price_usd": 175,
+      "hours": 8
+    },
+    {
+      "id": "princess",
+      "name_en": "Princess Castle Bounce House",
+      "name_es": "Castillo de Princesas",
+      "price_usd": 175,
+      "hours": 8
+    },
+    {
+      "id": "cars",
+      "name_en": "Cars Race Bounce House",
+      "name_es": "Brincolín de Cars",
+      "price_usd": 175,
+      "hours": 8
+    },
+    {
+      "id": "batman",
+      "name_en": "Batman Bounce House",
+      "name_es": "Brincolín de Batman",
+      "price_usd": 175,
+      "hours": 8
+    },
+    {
+      "id": "monster",
+      "name_en": "Monster Truck Bounce House",
+      "name_es": "Brincolín Monster Truck",
+      "price_usd": 175,
+      "hours": 8
+    },
+    {
+      "id": "toystory",
+      "name_en": "Toy Story Bounce House",
+      "name_es": "Brincolín Toy Story",
+      "price_usd": 175,
+      "hours": 8
+    },
+    {
+      "id": "tt-bouncer",
+      "name_en": "Tiny Town Bouncer and Duel Slide (ages 5 and under)",
+      "name_es": "Tiny Town Brincolín y Resbaladilla (5 años o menos)",
+      "price_usd": 85,
+      "hours": 8
+    },
+    {
+      "id": "tt-splash",
+      "name_en": "Tiny Town Jump N Splash and Concession Combo",
+      "name_es": "Tiny Town Jump N Splash y Concesión",
+      "price_usd": 85,
+      "hours": 8
+    },
+    {
+      "id": "tt-princess",
+      "name_en": "Princess Castle Tiny Town and Action Air",
+      "name_es": "Castillo de Princesas Tiny Town y Action Air",
+      "price_usd": 85,
+      "hours": 8
+    },
+    {
+      "id": "tt-island",
+      "name_en": "Splash Island with Water Cannons",
+      "name_es": "Isla de Agua con Cañones",
+      "price_usd": 100,
+      "hours": 8
+    },
+    {
+      "id": "tropical",
+      "name_en": "Tropical Bounce and Slide Combo",
+      "name_es": "Combo Tropical Brincolín + Resbaladilla",
+      "price_usd": 175,
+      "hours": 8
+    },
+    {
+      "id": "jump-splash",
+      "name_en": "Jump N Splash Water Combo",
+      "name_es": "Combo Acuático Jump N Splash",
+      "price_usd": 275,
+      "hours": 8
+    },
+    {
+      "id": "jump-slide",
+      "name_en": "Jump N Slide Combo",
+      "name_es": "Combo Jump N Slide",
+      "price_usd": 275,
+      "hours": 8
+    },
+    {
+      "id": "dolphin",
+      "name_en": "16ft Dolphin Water Slide",
+      "name_es": "Tobogán Acuático Delfín de 16 Pies",
+      "price_usd": 250,
+      "hours": 8
+    },
+    {
+      "id": "slip25",
+      "name_en": "25ft Two-Person Slip N Slide",
+      "name_es": "Deslizador Doble de 25 Pies",
+      "price_usd": 225,
+      "hours": 8
+    },
+    {
+      "id": "dry18",
+      "name_en": "18ft Double-Lane Dry Slide",
+      "name_es": "Tobogán Seco Doble de 18 Pies",
+      "price_usd": 325,
+      "hours": 8
+    },
+    {
+      "id": "dry25",
+      "name_en": "25ft Double-Lane Dry Slide",
+      "name_es": "Tobogán Seco Doble de 25 Pies",
+      "price_usd": 450,
+      "hours": 8
+    },
+    {
+      "id": "obstacle1",
+      "name_en": "Turbo Rush Obstacle Course",
+      "name_es": "Pista de Obstáculos Turbo Rush",
+      "price_usd": null,
+      "hours": 8
+    },
+    {
+      "id": "obstacle2",
+      "name_en": "Double-Lane Obstacle Course",
+      "name_es": "Pista de Obstáculos Doble",
+      "price_usd": null,
+      "hours": 8
+    },
+    {
+      "id": "blaster",
+      "name_en": "Foam Ball BLASTER Party (2 hrs with Game MC)",
+      "name_es": "Fiesta Foam Ball BLASTER (2 Horas con Animador)",
+      "price_usd": 225,
+      "hours": 2
+    },
+    {
+      "id": "kickdarts",
+      "name_en": "Giant Kick Ball Darts",
+      "name_es": "Dardos Gigantes de Patear",
+      "price_usd": null,
+      "hours": 8
+    }
+  ],
+  "tools": [
+    {
+      "name": "list_inflatables_and_prices",
+      "description": "Return published inflatable rental rates, delivery zones and combo discounts.",
+      "input_schema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      }
+    },
+    {
+      "name": "quote_party_combo",
+      "description": "Calculate total rental cost with delivery zone and food truck combo discount.",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "unit_price_usd": {
+            "type": "integer"
+          },
+          "delivery_zone_fee_usd": {
+            "type": "integer",
+            "enum": [
+              0,
+              50,
+              75,
+              100
+            ]
+          },
+          "bundle_food_truck": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "unit_price_usd",
+          "delivery_zone_fee_usd"
+        ],
+        "additionalProperties": false
+      }
+    }
+  ]
+}
