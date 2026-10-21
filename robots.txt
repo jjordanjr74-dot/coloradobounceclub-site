@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.coloradobounceclub.com/sitemap.xml
+Sitemap: https://coloradobounceclub.com/sitemap.xml
