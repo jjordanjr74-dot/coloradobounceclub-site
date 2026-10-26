@@ -1,17 +1,44 @@
 {
-  "name": "Colorado Bounce Club",
+  "id": "/",
+  "name": "Colorado Bounce Club \u2014 Party & Bounce House Rentals",
   "short_name": "CO Bounce Club",
-  "start_url": "./",
-  "scope": "./",
+  "description": "Sanitized commercial bounce houses, water slides, and party rentals across Pueblo, Colorado Springs & Southern CO.",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a",
-  "description": "Bounce house and water slide rentals in Pueblo and Colorado Springs.",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#0d1021",
+  "theme_color": "#ff5500",
+  "lang": "en-US",
+  "dir": "ltr",
   "icons": [
     {
-      "src": "assets/icon-512.png",
+      "src": "/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icons/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }

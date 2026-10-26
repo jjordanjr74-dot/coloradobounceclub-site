@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.coloradobounceclub.app",
+      "sha256_cert_fingerprints": [
+        "55:28:F2:B2:08:03:BB:F8:F4:85:42:35:70:EC:F9:33:CE:18:0F:1D:07:AE:21:84:7F:9E:8C:B6:B2:90:9C:CE"
+      ]
+    }
+  }
+]
