@@ -567,14 +567,12 @@ a {
   border: 1px solid #f2d9a8;
 }
 .combo .pill {
-  background: rgba(255, 255, 255, 0.1);
-  color: #fef08a;
-  border-color: rgba(255, 255, 255, 0.2);
+  background: #fffdf7; color: #92400e; border-color: #f0dcbb;
 }
 .combo h2 {
   font-family: var(--font-serif);
   font-size: clamp(1.6rem, 3.2vw, 2.2rem);
-  color: #ffffff;
+  color: #1c1917;
   margin: 10px 0 16px;
 }
 .combo-grid {
@@ -602,7 +600,7 @@ a {
   margin-bottom: 18px;
 }
 .combo a:not(.btn) {
-  color: #fef08a;
+  color: #92400e;
 }
 .steps-grid {
   display: grid;
