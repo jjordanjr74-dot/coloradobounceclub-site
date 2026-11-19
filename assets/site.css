@@ -115,6 +115,9 @@ a {
   background: #991b1b;
   color: #ffffff;
 }
+.deposit-row { margin: 14px 0 0; font-size: 15px; line-height: 1.5; color: #44403c; }
+.deposit-link { display: inline-flex; align-items: center; min-height: 44px; padding: 0 16px; margin-left: 4px; border-radius: 999px; background: #fff7e6; border: 2px solid #b45309; color: #7c2d12; font-weight: 700; text-decoration: none; }
+.deposit-link:hover { background: #ffedd5; }
 .btn-row {
   display: flex;
   flex-wrap: wrap;
