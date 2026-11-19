@@ -1,17 +1,17 @@
 
 :root {
-  --navy: #0e1e33;
-  --navy2: #17283c;
-  --navy-dark: #08111d;
-  --slate: #334155;
-  --ink: #1e293b;
+  --navy: #7c2d12;
+  --navy2: #9a3412;
+  --navy-dark: #fdf6e9;
+  --slate: #44403c;
+  --ink: #1c1917;
   --mut: #64748b;
   --faint: #94a3b8;
   --bg: #fcfbf9;
   --bg-alt: #f4f3ef;
   --surface: #ffffff;
   --line: #e2e5eb;
-  --line-strong: #cbd5e1;
+  --line-strong: #e2d7c1;
   --terracotta: #b91c1c;
   --terracotta-hover: #991b1b;
   --amber: #b45309;
@@ -112,7 +112,7 @@ a {
   border-color: var(--navy);
 }
 .btn-dark:hover {
-  background: #172a45;
+  background: #991b1b;
   color: #ffffff;
 }
 .btn-row {
@@ -561,11 +561,10 @@ a {
   color: var(--navy);
 }
 .combo {
-  background: var(--navy);
-  color: #ffffff;
+  background: #fff7e6; color: #1c1917;
   border-radius: var(--radius);
   padding: 36px;
-  border: 1px solid #1e3a5f;
+  border: 1px solid #f2d9a8;
 }
 .combo .pill {
   background: rgba(255, 255, 255, 0.1);
@@ -585,20 +584,19 @@ a {
   margin-top: 20px;
 }
 .combo-card {
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: #ffffff; border: 1px solid #f0dcbb; box-shadow: 0 1px 2px rgba(28,25,23,.05);
   border-radius: var(--radius);
   padding: 24px;
 }
 .combo-card h3 {
   font-family: var(--font-sans);
-  color: #f8fafc;
+  color: #1c1917;
   font-size: 1.12rem;
   font-weight: 700;
   margin-bottom: 10px;
 }
 .combo-card p {
-  color: #cbd5e1;
+  color: #475569;
   font-size: 0.93rem;
   line-height: 1.6;
   margin-bottom: 18px;
@@ -717,11 +715,10 @@ a {
   font-size: 0.94rem;
 }
 .site-foot {
-  background: var(--navy-dark);
-  color: #94a3b8;
+  background: #fbf7ef; color: #475569;
   padding: 48px 0 96px;
   font-size: 0.9rem;
-  border-top: 1px solid #1e293b;
+  border-top: 1px solid #efe3cd;
 }
 .foot-grid {
   display: grid;
@@ -731,7 +728,7 @@ a {
 .foot-brand {
   font-family: var(--font-serif);
   font-size: 1.25rem;
-  color: #ffffff;
+  color: #1c1917;
   font-weight: 400;
   display: block;
 }
@@ -740,7 +737,7 @@ a {
   font-size: 0.68rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: #f59e0b;
+  color: #92400e;
   margin: 4px 0 10px;
 }
 .foot-contact {
@@ -748,20 +745,20 @@ a {
   font-size: 0.85rem;
 }
 .site-foot a {
-  color: #cbd5e1;
+  color: #7c2d12;
   text-decoration: none;
   transition: color 0.15s ease;
 }
 .site-foot a:hover {
-  color: #ffffff;
+  color: #b91c1c;
 }
 .foot-legal {
   margin-top: 32px;
   padding-top: 20px;
-  border-top: 1px solid #1e293b;
+  border-top: 1px solid #efe3cd;
   font-family: var(--font-mono);
   font-size: 0.76rem;
-  color: #64748b;
+  color: #57534e;
 }
 .callbar {
   position: fixed;

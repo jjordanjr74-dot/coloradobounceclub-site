@@ -2,7 +2,6 @@
   "id": "/",
   "name": "Colorado Bounce Club \u2014 Party & Bounce House Rentals",
   "short_name": "CO Bounce Club",
-  "description": "Sanitized commercial bounce houses, water slides, and party rentals across Pueblo, Colorado Springs & Southern CO.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -15,6 +14,7 @@
   "theme_color": "#ff5500",
   "lang": "en-US",
   "dir": "ltr",
+  "description": "Sanitized commercial bounce houses, water slides, and party rentals across Pueblo, Colorado Springs & Southern CO.",
   "icons": [
     {
       "src": "/assets/icons/icon-192.png",
